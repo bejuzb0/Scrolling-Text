@@ -1,2 +1,0 @@
-# Scrolling-Text
-Scrolling Text
